@@ -1,0 +1,1 @@
+These two files work together to demonstrate a basic information query using PHP and SQL.
